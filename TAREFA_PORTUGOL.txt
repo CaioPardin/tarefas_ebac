@@ -1,0 +1,18 @@
+
+Algoritimo Escovando os dentes 
+
+1- Ao Acordar, levantar da cama;
+2- caminhar até o banheiro;
+3- Se a porta estiver fechada;
+      1. Abrir a porta;
+4- Se a prta estiver aberta;
+      1. Entrar;
+5- Caminhar até a pia;
+6- Pegar a escova de dentes;
+7- Pegar a pasta de dentes;
+8- Se naõ tiver mais pasta;
+      1. Abrir a primeira gaveta;
+      2. Pegar outra pasta;
+9- Se tiver pasta;
+      1. colocar a pasta na escova;
+10- Escovar os dentes;
