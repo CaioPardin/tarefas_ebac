@@ -1,0 +1,2 @@
+A Injeção de Dependência no Spring Framework é um padrão que desacopla classes, melhora a legibilidade e facilita a manutenção.
+O Spring  gerencia automaticamente as dependências, tornando os objetos gerenciados chamados de Beans. Essa abordagem simplifica o código e permite definir dependências de forma declarativa. 
